@@ -1,0 +1,4 @@
+##### Testing
+```
+meteor test-packages ./
+```
